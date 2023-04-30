@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitesh-148/Nitesh-148/blob/main/LinkedIn%20banner%203d.png)
+<img src=.png" alt="Logo">
 <h1 align="center">Hi 👋, I'm Shashank Shrivastava</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" width="100%" opacity="0.5" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
