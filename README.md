@@ -5,14 +5,12 @@
 
 - 📫 How to reach me **niteshsrivastava148@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m2W1On694YR_UVLoKKHGfmt-moYLInlH/view?usp=share_link](https://drive.google.com/file/d/1m2W1On694YR_UVLoKKHGfmt-moYLInlH/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1DEIIeIYoYZErfAJTJDSuEggbdDaDiYah/view?usp=share_link
 
 - ⚡ Fun fact **I am very funny and foodie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shashank-shrivastava-39a392226" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shashank-shrivastava-39a392226?trk=profile-badge">Shashank Shrivastava</a></div>
-              
  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B8BvJMpFVSKm6NLoRR8pCkA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3budtz8hdlrg65%2bjk%2ffygrkq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shashank0012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashank0012" height="30" width="40" /></a>
 </p>
