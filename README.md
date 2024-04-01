@@ -1,4 +1,4 @@
-<img src="https://github.com/Nitesh-148/Nitesh-148/blob/main/My%20project-1.png" alt="Logo">
+<img src="https://github.com/Nitesh-148/Nitesh-148/blob/main/github-banner.jpg" alt="Logo">
 <h1 align="center">Hi 👋, I'm Shashank Shrivastava</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="100%" opacity="0.5" src="https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc">
