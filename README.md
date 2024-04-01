@@ -1,7 +1,8 @@
 <img src="https://github.com/Nitesh-148/Nitesh-148/blob/main/My%20project-1.png" alt="Logo">
 <h1 align="center">Hi 👋, I'm Shashank Shrivastava</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="100%" opacity="0.5" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<br>
 
 - 🌱 I’m currently learning **MERN STACK**
 
